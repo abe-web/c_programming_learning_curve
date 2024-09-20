@@ -9,4 +9,5 @@ int main() {
 	/*  scan, match any character that is not a new line */
 	scanf("%[^\n]1000s", line);
 	printf("Line: %s\n", line);
+	return 0;
 }
