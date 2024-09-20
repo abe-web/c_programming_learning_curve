@@ -1,4 +1,4 @@
-/* I am a comment */
+/* cc_02_01.c */
 #include <stdio.h>
 
 int main() {
